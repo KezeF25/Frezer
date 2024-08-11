@@ -1,0 +1,33 @@
+.requirements{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    background-color: #E0E0E0;
+}
+
+.title{
+    font-family: 'Open Sans';
+    font-weight: bold;
+    font-size: 48px;
+    color: #000000;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.text{
+    font-family: 'Open Sans';
+    font-weight: lighter;
+    font-size: 32px;
+    width: 60%;
+    color: #000000;
+    margin-bottom: 30px;
+}
+
+.format_img{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: 50px 0px;
+}

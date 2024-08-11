@@ -1,0 +1,26 @@
+.aboutUs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    background-color: #E0E0E0;
+}
+
+.title{
+    font-family: 'Open Sans';
+    font-weight: bold;
+    font-size: 48px;
+    color: #000000;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.description{
+    font-family: 'Open Sans';
+    font-weight: lighter;
+    text-align: center;
+    font-size: 32px;
+    width: 60%;
+    color: #000000;
+}

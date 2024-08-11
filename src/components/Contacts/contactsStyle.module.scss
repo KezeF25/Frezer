@@ -1,0 +1,48 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    background-color: #D4D4D4;
+}
+
+.title{
+    font-family: 'Open Sans';
+    font-weight: bold;
+    font-size: 48px;
+    color: #000000;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.contacts{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 60%;
+    height: auto;
+    margin-bottom: 50px;
+}
+
+.column{
+    
+}
+
+.contact{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 35px;
+}
+
+.contact img{
+    margin-right: 15px;
+}
+
+.contact p{
+    font-family: 'Open Sans';
+    font-weight: lighter;
+    font-size: 24px;
+    color: #000000;
+}
