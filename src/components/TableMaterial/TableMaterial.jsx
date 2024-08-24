@@ -12,7 +12,7 @@ const TableMaterial = () => {
             <th></th>
             <th>ПЭТ</th>
             <th>Композит</th>
-            <th>Оргстекло, Акрил, Полистирол</th>
+            <th className={styles.small_th}>Оргстекло, Акрил, Полистирол</th>
             <th>ПВХ</th>
             <th>ДСП, МДФ</th>
             <th>Фанера</th>
